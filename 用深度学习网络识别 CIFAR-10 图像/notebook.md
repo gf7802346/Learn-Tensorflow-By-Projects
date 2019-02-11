@@ -1,5 +1,7 @@
 # 用深度学习网络识别 CIFAR-10 图像
 
+定义且训练一个合适的深度网络，能够识别一张全新的图像，归入到 `CIFAR-10` 的 `10` 个类别中的一个
+
 ## CIFAR-10 数据集
 
 ![dataset](./images/cifar10dataset.png)
